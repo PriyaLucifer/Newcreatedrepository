@@ -12,6 +12,17 @@ public class College {
 		System.out.println("College Rank: A++");
 	}
 	
+	private void stuDep() {
+	System.out.println("Student dept id: computer science engineering");
+		
+	}
+	
+	private void stuGrade() {
+		System.out.println("Student grade is: A");
+		
+	}
+	
+	
 	public static void main(String[] args) {
 		College c=new College();
 		c.clgName();
