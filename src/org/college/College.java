@@ -33,6 +33,9 @@ public class College {
 		System.out.println("Student grade is: A");
 		
 	}
+	private void name() {
+System.out.println("jeevi");
+	}
 	
 	
 
