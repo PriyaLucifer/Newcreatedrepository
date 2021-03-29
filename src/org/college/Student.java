@@ -11,6 +11,10 @@ public class Student {
 	public void stuId() {
 		System.out.println("Student ID : u12cs052");
 	}
+	private void studa() {
+		System.out.println();
+
+	}
 	public void stuCourse()
 	{
 		System.out.println("sysout");
