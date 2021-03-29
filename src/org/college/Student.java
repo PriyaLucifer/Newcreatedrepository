@@ -11,5 +11,9 @@ public class Student {
 	public void stuId() {
 		System.out.println("Student ID : u12cs052");
 	}
+	public void stuCourse()
+	{
+		System.out.println("sysout");
+	}
 	
 }
